@@ -42,6 +42,7 @@ class HermiteInterpolation:
         plt.grid()
         plt.show()
 
+
 dias = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo']
 temperaturas = [20, 22, 25, 24, 27, 29, 21]
 

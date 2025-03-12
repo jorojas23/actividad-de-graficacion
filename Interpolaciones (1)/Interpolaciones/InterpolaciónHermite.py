@@ -45,5 +45,6 @@ class HermiteInterpolation:
 dias = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo']
 temperaturas = [20, 22, 25, 24, 27, 29, 21]
 
+
 interpolador = HermiteInterpolation(dias, temperaturas)
 interpolador.plot()
